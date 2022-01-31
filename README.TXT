@@ -8,9 +8,11 @@ Instructions on how to run the game
 
 3.) Run the program in processing
 
-4.) Press enter to change between a first-person view and third-person view
+4.) Press enter to switch between the first-person view and third-person view
 
 5.) Press space to jump over an obstacle
+
+ENJOY!
 
 
 
